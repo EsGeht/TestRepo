@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sascha Georgy
 
 # Username (this should match the folder name)
 authors:
@@ -10,10 +10,10 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Inhaber WiDaA UG
 
 # Organizations/Affiliations
-organizations:
+# organizations:
 - name: Stanford University
   url: ""
 
