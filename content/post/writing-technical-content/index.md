@@ -1,6 +1,6 @@
 ---
-title: Writing technical content in Academic
-date: 2019-07-12
+title: Inhalt
+date: 2021-04-10
 math: true
 diagram: true
 image:
