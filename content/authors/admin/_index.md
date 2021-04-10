@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sascha Georgy
+title: Dr. Sascha Georgy
 
 # Username (this should match the folder name)
 authors:
@@ -14,15 +14,15 @@ role: Inhaber WiDaA UG
 
 # Organizations/Affiliations
 # organizations:
-- name: Stanford University
-  url: ""
+# - name: Stanford University
+# url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
+Arbeitsschwerpunkte:
+- Datenmanagement & Datenanalyse
+- 
 - Information Retrieval
 
 education:
