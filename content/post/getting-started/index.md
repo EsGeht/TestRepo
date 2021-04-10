@@ -1,6 +1,6 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
+title: 'Valverde'
+subtitle: 'Alter Mann ganz groß'
 summary: Create a beautifully simple website in under 10 minutes.
 authors:
 - admin
